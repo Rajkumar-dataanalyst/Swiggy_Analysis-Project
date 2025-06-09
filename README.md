@@ -137,7 +137,7 @@ LEFT JOIN CustomerAddress ca ON o.`Customer ID` = ca.`Customer ID`;
 
 ### Page 1 – Orders & Metrics
 
-![Tableau Page 1](screenshots/tableau_dashboard_page1.png)
+![Tableau Page 1](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis-Project/blob/main/tableau_dashboard_page1.png?raw=true)
 
 * Profit by Cuisine
 * Monthly Orders
@@ -145,7 +145,7 @@ LEFT JOIN CustomerAddress ca ON o.`Customer ID` = ca.`Customer ID`;
 
 ### Page 2 – Customers & Delivery
 
-![Tableau Page 2](screenshots/tableau_dashboard_page2.png)
+![Tableau Page 2](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis-Project/blob/main/tableau_dashboard_page2.png?raw=true)
 
 * Cancel % by City
 * Top Customers
