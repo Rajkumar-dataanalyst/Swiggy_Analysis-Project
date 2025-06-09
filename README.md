@@ -95,7 +95,7 @@ LEFT JOIN CustomerAddress ca ON o.`Customer ID` = ca.`Customer ID`;
 
 ## 📊 Excel Dashboard
 
-![Excel Dashboard](screenshots/excel_dashboard.png)
+![Excel Dashboard](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis-Project/blob/main/excel_dashboard.png?raw=true)
 
 ### KPIs:
 
