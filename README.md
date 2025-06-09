@@ -110,7 +110,7 @@ LEFT JOIN CustomerAddress ca ON o.`Customer ID` = ca.`Customer ID`;
 
 ### Page 1 – Overview
 
-![Power BI Page 1](screenshots/powerbi_dashboard_page1.png)
+![Power BI Page 1](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis-Project/blob/main/powerbi_dashboard_page1.png?raw=true)
 
 * KPIs: Orders, Revenue, AOV
 * Cuisine Profit, Payment Split
