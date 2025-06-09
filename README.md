@@ -118,14 +118,14 @@ LEFT JOIN CustomerAddress ca ON o.`Customer ID` = ca.`Customer ID`;
 
 ### Page 2 – Customers & Orders
 
-![Power BI Page 2](screenshots/powerbi_dashboard_page2.png)
+![Power BI Page 2](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis-Project/blob/main/powerbi_dashboard_page2.png?raw=true)
 
 * CLV, Category Preference
 * Cancellation %, Profit by City
 
 ### Page 3 – Delivery Analysis
 
-![Power BI Page 3](screenshots/powerbi_dashboard_page3.png)
+![Power BI Page 3](https://github.com/Rajkumar-dataanalyst/Swiggy_Analysis-Project/blob/main/powerbi_dashboard_page3.png?raw=true)
 
 * COGS vs Profit
 * On-Time Delivery %
