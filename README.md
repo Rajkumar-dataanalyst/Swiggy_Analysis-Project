@@ -1,28 +1,11 @@
-Great, Raj! Below is your **complete `README.md` file**, which includes **Markdown syntax for screenshots** and structure suitable for uploading to GitHub or a portfolio. You'll just need to **place the screenshot images in your project folder** and make sure the file paths are correct.
-
----
-
-### ✅ Step 1: Rename your screenshots
-
-Place your dashboard screenshots (Power BI, Tableau, Excel) inside a folder named `screenshots/` and rename them like:
-
-* `excel_dashboard.png`
-* `powerbi_dashboard_page1.png`
-* `powerbi_dashboard_page2.png`
-* `powerbi_dashboard_page3.png`
-* `tableau_dashboard_page1.png`
-* `tableau_dashboard_page2.png`
-
----
-
-### ✅ Step 2: Copy the markdown content below and save it as `README.md`
-
-````markdown
 # 🍽️ Swiggy Analytics Dashboard Project – SQL + Excel + Power BI + Tableau
 
 This end-to-end project visualizes Swiggy’s customer and order data across three BI platforms – **Excel**, **Power BI**, and **Tableau**, with **MySQL** as the backend. Insights are extracted using SQL queries, data modeling, and DAX measures.
 
 ---
+
+---
+
 
 ## 🧱 Architecture Overview
 
@@ -155,25 +138,8 @@ JOIN DeliveryAgent da ON d.AgentID = da.AgentID;
 
 
 
----
 
-## ✅ Next Steps
 
-* Add `Data Refresh` automation in Power BI Service
-* Publish Tableau dashboard to Tableau Public
-* Convert Excel dashboard to dynamic Power Query-based model
-
----
-
-## 📬 Connect
-
-For feedback, collaboration, or queries, feel free to reach out via [LinkedIn](https://www.linkedin.com).
-
----
-
-```
-
----
 
 
 
